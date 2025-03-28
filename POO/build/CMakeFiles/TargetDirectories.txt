@@ -1,0 +1,3 @@
+C:/Users/Alejandro/Desktop/POO/build/CMakeFiles/POO.dir
+C:/Users/Alejandro/Desktop/POO/build/CMakeFiles/edit_cache.dir
+C:/Users/Alejandro/Desktop/POO/build/CMakeFiles/rebuild_cache.dir

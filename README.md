@@ -5,7 +5,7 @@
 
 ## Breve explicación
 
-Este diseño es a estructura basica de un juego donde los usuarios pueden adoptar mascotas virtuales, darles habilidades y cuidarlas.
+Este diseño es la estructura basica de un juego donde los usuarios pueden adoptar mascotas virtuales, darles habilidades y cuidarlas.
 
 ### Clases
 
